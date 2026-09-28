@@ -30,11 +30,11 @@ expenses.json     Stores expense data
 README.md	        Project documentation
 
 **Requirements:**
-Python 3.14.2
-The project uses only Python's built-in modules, so no external packages are required.
-Run the application python main.py
+Python 3.14.2, The project uses only Python's built-in modules, so no external packages are required.
 
 **How It Works:**
+
+Run the application python main.py
 
 Enter your budget: 800
 
@@ -84,8 +84,4 @@ food : $ 260.0
 4. Search Category
 5. Save and Exit
 
-**Technologies Used:**
-Python
-JSON
-Regular Expressions
-Object-Oriented Programming
+**Technologies Used:**  Python,JSON,Regular Expressions,Object-Oriented Programming
